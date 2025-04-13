@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto";
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.head_foot{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #1F2937;
+    color: #e5e7eb;
+}
+
+h1{
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
